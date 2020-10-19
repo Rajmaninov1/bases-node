@@ -1,0 +1,17 @@
+{
+  "name": "03-bases-node",
+  "version": "1.0.0",
+  "description": "Esta es una aplicacion de consola",
+  "main": "argv.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.5",
+    "yargs": "^16.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian Tolosa",
+  "license": "ISC"
+}
